@@ -1,4 +1,4 @@
-module github.com/soheilhy/cmux
+module github.com/linuxerwang/cmux
 
 go 1.11
 
